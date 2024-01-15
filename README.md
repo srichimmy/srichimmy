@@ -4,7 +4,8 @@
 - 📚 I’m currently working on <b>Data Structures and Algorithms</b>
 - 👨 Pronoun: she/her.
 - 🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sripoojithab183/)
-- 📱 Available in social media: <a href="https://instagram.com/sumanaswags" target="blank"></a></t>
+- 📱 Available in social media: <a href="https://www.instagram.com/sri_chimmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri_chimmy" height="30" width="40" /></a></t>
+
 <h3>Technical Skills</h3>
 
 ![C language](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
