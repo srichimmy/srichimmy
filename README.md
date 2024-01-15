@@ -3,7 +3,7 @@
 - 👀 I’m interested in <b>Cloud Computing & Machine learning</b>
 - 📚 I’m currently working on <b>Data Structures and Algorithms</b>
 - 👨 Pronoun: she/her.
-- 🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com/in/sripoojithab183)
+- 🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sripoojithab183/)
 - 📱 Available in social media: <a href="https://instagram.com/sumanaswags" target="blank"></a></t>
 <h3>Technical Skills</h3>
 
