@@ -22,15 +22,18 @@
 ![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black) <br>
  <br>
-
-
 <h3>Practice Platforms</h3>
+
+
 ![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
  <br>
 
+
 ![]()
+
+
 
 <!---
 git-sumana/git-srichimmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----># git-srichimmy
+--->
