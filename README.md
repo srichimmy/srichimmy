@@ -2,7 +2,8 @@
 - 🧑‍🎓 Final year UG in Department of <b>Computer Science and Engineering</b><br>
 - 👀 I’m interested in <b>Cloud Computing & Machine learning</b>
 - 📚 I’m currently working on <b>Data Structures and Algorithms</b>
-- 👨 Pronoun: she/her.
+- 👧 Pronoun: she/her.
+- 📫 How to reach me **sripoojithab183@gmail.com**
 - 🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sripoojithab183/)
 - 📱 Available in social media: <a href="https://www.instagram.com/sri_chimmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri_chimmy" height="30" width="40" /></a></t>
 <!--profile count reader-->
