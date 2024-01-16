@@ -28,10 +28,9 @@
 ![](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
  <br>
 
-
 ![]()
 
-
+ ![Github stats](https://github-readme-stats.vercel.app/api?username=srichimmy)
 
 <!---
 git-sumana/git-srichimmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
