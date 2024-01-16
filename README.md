@@ -5,6 +5,8 @@
 - 👨 Pronoun: she/her.
 - 🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sripoojithab183/)
 - 📱 Available in social media: <a href="https://www.instagram.com/sri_chimmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri_chimmy" height="30" width="40" /></a></t>
+<!--profile count reader-->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=srichimmy&label=Profile%20views&color=eb640a&style=flat-square" alt="srichimmy" /> </p>
 
 <h3>Technical Skills</h3>
 
