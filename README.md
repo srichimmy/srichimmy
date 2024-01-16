@@ -30,7 +30,11 @@
 
 ![]()
 
- ![Github stats](https://github-readme-stats.vercel.app/api?username=srichimmy)
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srichimmy&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="srichimmy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srichimmy&show_icons=true&locale=en" alt="srichimmy" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srichimmy&" alt="srichimmy" /></p>
 
 <!---
 git-sumana/git-srichimmy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
