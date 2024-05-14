@@ -3,7 +3,7 @@
 - 👀 I’m interested in <b>Cloud Computing & Machine learning</b>
 - 📚 I’m currently working on <b>Data Structures and Algorithms</b>
 - 👧 Pronoun: she/her.
-- 📃 My Resume :[Resume_poojab.pdf](https://github.com/srichimmy/srichimmy/files/13959642/Resume_poojab.pdf)
+- 📃 My Resume :[Resume_poojareddy.pdf](https://github.com/srichimmy/srichimmy/files/15308517/Resume_poojareddy.pdf)
 - 📫 How to reach me **sripoojithab183@gmail.com**
 - 🫶 You can connect me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sripoojithab183/)
 - 📱 Available on social media: <a href="https://www.instagram.com/sri_chimmy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sri_chimmy" height="30" width="40" /></a></t>
